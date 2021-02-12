@@ -1,0 +1,26 @@
+.Header {
+  background-color: #17a2b8 !important;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.Header_left {
+  color: white;
+  padding: 10px 20px;
+  font-size: 1.75rem;
+  text-decoration: none;
+}
+.Link_header {
+  text-decoration: none;
+}
+.Header_right {
+  display: flex;
+}
+.Header_nav {
+  color: white;
+  font-size: 1.5rem;
+  padding: 1rem 1rem;
+  display: block;
+}
