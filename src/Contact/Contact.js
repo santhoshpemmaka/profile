@@ -21,12 +21,33 @@ function Contact() {
             >
               Contact Me
             </h1>
-                      <br />
-                      <a href="/">
-                          <button className="btn btn_secondary">
-                              Profile
-                          </button>
-                      </a>
+            <br />
+            <a href="/">
+              <button className="btn btn_secondary">Profile</button>
+            </a>
+            <br />
+            <br />
+            <a
+              target="_blank"
+              href="https://www.linkedin.com/in/santhoshpemmaka-b6573912a/"
+            >
+              <button className="btn btn_secondary">Linkedin</button>
+            </a>
+            <br />
+            <br />
+            <a target="_blank" href="mailto:santhosh.pemmaka@gmail.com">
+              <button className="btn btn_secondary">Email</button>
+            </a>
+            <br />
+            <br />
+            <a target="_blank" href="https://github.com/santhoshpemmaka/">
+              <button className="btn btn_secondary">Github</button>
+            </a>
+            <br />
+            <br />
+            <a target="_blank" href="https://twitter.com/SanthoshPemmaka">
+              <button className="btn btn_secondary">Twitter</button>
+            </a>
           </div>
         </div>
       </div>
