@@ -29,7 +29,7 @@ function Footer() {
             >
               <i className="Social_itag">
                 <LinkedInIcon
-                  className="Social_icon"
+                  className="Social_icons"
                   style={{ height: "1rem" }}
                 />
               </i>
@@ -38,7 +38,7 @@ function Footer() {
           <li>
             <a href="mailto:santhosh.pemmaka@gmail.com" target="_blank">
               <i className="Social_itag">
-                <MailIcon className="Social_icon" style={{ height: "1rem" }} />
+                <MailIcon className="Social_icons" style={{ height: "1rem" }} />
               </i>
             </a>
           </li>
@@ -46,7 +46,7 @@ function Footer() {
             <a href="https://github.com/santhoshpemmaka" target="_blank">
               <i className="Social_itag">
                 <GitHubIcon
-                  className="Social_icon"
+                  className="Social_icons"
                   style={{ height: "1rem" }}
                 />
               </i>
@@ -56,7 +56,7 @@ function Footer() {
             <a href="https://twitter.com/SanthoshPemmaka" target="_blank">
               <i className="Social_itag">
                 <TwitterIcon
-                  className="Social_icon"
+                  className="Social_icons"
                   style={{ height: "1rem" }}
                 />
               </i>
