@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Header from "./Header/Header.js";
 import Conatct from "./Contact/Contact.js";
 import Footer from "./Footer/Footer.js";
+import Home from "./Container/Container.js";
 import "./App.css";
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
           </Route>
           <Route path="/">
             <Header />
-            <h1>Home Page!!</h1>
+            <Home />
           </Route>
         </Switch>
       </div>

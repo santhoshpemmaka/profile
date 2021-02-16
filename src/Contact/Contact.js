@@ -1,6 +1,6 @@
 import React from "react";
 import "./Contact.css";
-import image_profile from "../IMG_20210110_085933 (1).jpg";
+import image_profile from "../imges/contactPage.jpg";
 function Contact() {
   return (
     <div style={{ backgroundColor: "#474747" }} className="Contact_header">
