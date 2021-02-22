@@ -1,5 +1,5 @@
 {
-  "homepage": "https://santhoshpemmaka.github.io/Website",
+  "homepage": "https://santhoshpemmaka.github.io/profile",
   "name": "my-profile",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.2",
+    "react-scripts": "^2.0.5",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
