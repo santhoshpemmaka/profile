@@ -40,7 +40,7 @@ export default function Education() {
                   <p>2015</p>
                   <br />
                   <p style={{ color: "black", fontSize: "medium" }}>
-                    🏛 JNTU CBSE School
+                    🏛 JNV CBSE School
                   </p>
                   <p>🇮🇳 Kadapa,India</p>
                   <hr />
@@ -57,7 +57,7 @@ export default function Education() {
                   <p>2013</p>
                   <br />
                   <p style={{ color: "black", fontSize: "medium" }}>
-                    🏛 JNTU CBSE School
+                    🏛 JNV CBSE School
                   </p>
                   <p>🇮🇳 Kadapa,India</p>
                   <hr />
